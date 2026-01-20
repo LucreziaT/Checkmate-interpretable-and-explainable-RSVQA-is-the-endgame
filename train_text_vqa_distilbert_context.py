@@ -25,7 +25,7 @@ embeddings_dict_patch = None
 embeddings_dict_answ = None
 
 perfect_context_folder = (
-    "/lustre/fsn1/projects/rech/tnl/uwh84qh/"
+    ".../"
     "BiasesProject/DataSet/perfect_context/"
 )
 
@@ -33,7 +33,7 @@ perfect_context_folder = (
 def load_dictionary_patch():
     global embeddings_dict_patch
     with open(
-        "/lustre/fsn1/projects/rech/tnl/uwh84qh/"
+        ".../"
         "BiasesProject/DataSet/parquet/qafinal/patch.json",
         "r"
     ) as f:
@@ -42,7 +42,7 @@ def load_dictionary_patch():
 def load_dictionary_answ():
     global embeddings_dict_answ
     with open(
-        "/lustre/fsn1/projects/rech/tnl/uwh84qh/"
+        ".../"
         "BiasesProject/DataSet/parquet/qafinal/answ.json",
         "r"
     ) as f:
@@ -281,12 +281,12 @@ tokenizer = DistilBertTokenizer.from_pretrained(
 tokenizer.model_max_length = 1024
 
 train_df = pd.read_parquet(
-    "/lustre/fsn1/projects/rech/tnl/uwh84qh/"
+    ".../"
     "BiasesProject/DataSet/parquet/qafinal/dataset_balanced_train.parquet"
 ).head(10)
 
 val_df = pd.read_parquet(
-    "/lustre/fsn1/projects/rech/tnl/uwh84qh/"
+    ".../"
     "BiasesProject/DataSet/parquet/qafinal/dataset_balanced_validation.parquet"
 ).head(10)
 
