@@ -12,20 +12,35 @@ This repository implements a full pipeline for **Remote Sensing Visual Question 
 ## 📁 Project Structure
 
 ├── build_grid_context.py
+
 ├── grid_to_text_context.py
+
 ├── text_to_vqa_training_context.py
+
 │
+
 ├── segmentation/
+
 │ ├── UNET.py
+
 │ ├── SegFormer.py
+
 │ └── DOFA.py
+
 │
+
 ├── DataSet/
+
 │ ├── BigEarthNetRGB/
+
 │ ├── Reference_Maps/
+
 │ ├── Predicted_Masks_*/
+
 │ ├── *_context/
+
 │ ├── *_text_context/
+
 │ └── parquet/qafinal/
 
 ---
