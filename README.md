@@ -210,9 +210,13 @@ Based on **CORINE Land Cover**, including:
 ---
 
 ## 🔧 Dependencies
+
 pip install torch torchvision transformers
+
 pip install numpy pandas pillow tqdm pyarrow
+
 pip install segmentation-models-pytorch
+
 pip install torchgeo
 
 ---
