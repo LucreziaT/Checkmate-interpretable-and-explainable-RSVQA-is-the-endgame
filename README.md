@@ -1,4 +1,4 @@
-# 📊 Context-Aware RSVQA Pipeline
+# 📊 Checkmate and Chessboard
 
 This repository implements a full pipeline for **Remote Sensing Visual Question Answering (RSVQA)** based on:
 
