@@ -143,7 +143,9 @@ Script: `text_to_vqa_training_context.py`
 Loss = a0 * patch_loss + b0 * answer_loss
 
 Default:
+
 a0 = 0.0
+
 b0 = 1.0
 
 ---
@@ -175,9 +177,13 @@ python text_to_vqa_training_context.py
 ---
 
 ## 🗺️ Grid Definition
+
 a1 b1 c1 d1
+
 a2 b2 c2 d2
+
 a3 b3 c3 d3
+
 a4 b4 c4 d4
 
 ---
