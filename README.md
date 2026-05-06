@@ -235,3 +235,28 @@ This framework enables:
 - Structured spatial reasoning
 - Context-aware RSVQA
 - Comparison across segmentation models
+
+---
+
+## 📄 License
+
+Copyright (c) 2026 Tosato Lucrezia 
+MIT License
+
+---
+
+## ✉️ Contact
+
+Lucrezia Tosato: ltosato (at) sarmap.ch
+
+---
+
+## ✅ Citation
+
+@article{tosato2025checkmate,
+  title={Checkmate: interpretable and explainable RSVQA is the endgame},
+  author={Tosato, Lucrezia and Chappuis, Christel Tartini and Montariol, Syrielle and Weissgerber, Flora and Lobry, Sylvain and Tuia, Devis},
+  journal={arXiv preprint arXiv:2508.13086},
+  year={2025}
+}
+
