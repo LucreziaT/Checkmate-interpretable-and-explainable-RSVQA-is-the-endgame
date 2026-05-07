@@ -241,7 +241,8 @@ This framework enables:
 ## 📄 License
 
 Copyright (c) 2026 Tosato Lucrezia 
-MIT License
+MIT License for Chessboard 
+CC BY 4.0 License for Checkmate 
 
 ---
 
