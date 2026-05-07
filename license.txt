@@ -1,6 +1,23 @@
-MIT License
+License: CC BY 4.0 for Chessboard Dataset
 
-Chessboard Dataset and Checkmate Model
+Copyright (c) 2026 Tosato Lucrezia 
+
+This dataset is licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to:
+- Share
+- Adapt
+- Redistribute
+
+Under the following terms:
+- Attribution must be given to the original authors.
+
+Full license text:
+https://creativecommons.org/licenses/by/4.0/
+
+---
+
+MIT License for Checkmate Model
 
 Copyright (c) 2026 Tosato Lucrezia 
 
